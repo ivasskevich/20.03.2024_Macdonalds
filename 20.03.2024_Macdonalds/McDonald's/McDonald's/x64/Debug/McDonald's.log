@@ -1,0 +1,18 @@
+﻿  Server.cpp
+C:\Users\Макс\Desktop\20.03.2024_HW_McDonald's\McDonald's\McDonald's\Server.cpp(58,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Макс\Desktop\20.03.2024_HW_McDonald's\McDonald's\McDonald's\Server.cpp(97,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Макс\Desktop\20.03.2024_HW_McDonald's\McDonald's\McDonald's\Server.cpp(102,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Макс\Desktop\20.03.2024_HW_McDonald's\McDonald's\McDonald's\Server.cpp(108,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Макс\Desktop\20.03.2024_HW_McDonald's\McDonald's\McDonald's\Server.cpp(113,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Макс\Desktop\20.03.2024_HW_McDonald's\McDonald's\McDonald's\Server.cpp(116,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Макс\Desktop\20.03.2024_HW_McDonald's\McDonald's\McDonald's\Server.cpp(120,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Макс\Desktop\20.03.2024_HW_McDonald's\McDonald's\McDonald's\Server.cpp(182,20): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+  C:\Users\Макс\Desktop\20.03.2024_HW_McDonald's\McDonald's\McDonald's\Server.cpp(182,20):
+  consider using '%lld' in the format string
+  C:\Users\Макс\Desktop\20.03.2024_HW_McDonald's\McDonald's\McDonald's\Server.cpp(182,20):
+  consider using '%Id' in the format string
+  C:\Users\Макс\Desktop\20.03.2024_HW_McDonald's\McDonald's\McDonald's\Server.cpp(182,20):
+  consider using '%I64d' in the format string
+  
+C:\Users\Макс\Desktop\20.03.2024_HW_McDonald's\McDonald's\McDonald's\Server.cpp(197,29): warning C4101: 'address': unreferenced local variable
+  McDonald's.vcxproj -> C:\Users\Макс\Desktop\20.03.2024_HW_McDonald's\McDonald's\x64\Debug\McDonald's_Server.exe
